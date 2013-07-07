@@ -53,4 +53,4 @@ Being modular allows other programs to either prepare date for lil data or use i
 ## Sketches
 
 Until the code is actually written, sketching things here:  
-[Heatmap](http://tributary.io/inlet/5925299)
+[Heatmap](http://tributary.io/inlet/5925299) - [Heatmap 2](http://tributary.io/inlet/5926143)
